@@ -192,12 +192,4 @@ Update the `href` attributes in the hero section:
 - Safari (latest)
 - Mobile browsers (iOS Safari, Chrome Mobile)
 
-## 📄 License
 
-This project is open source and available under the MIT License.
-
-## 🤝 Contributing
-
-Contributions, issues, and feature requests are welcome!
-
----
